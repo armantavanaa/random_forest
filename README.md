@@ -13,4 +13,4 @@ implementations in rf:
 2. RandomForestRegressor621: Inherits from RandomForest. It has functions that computes score, out of bag score and predict for a regressor model.
 3. RandomForestClassifier621: Inherits from RandomForest. It has functions that computes score, out of bag score and predict for a classifier model.
 
-test_rf is a file designed by my professor Dr.Parr to test my implementation aginst Scikit-learn's.
+test_rf.py is a script designed by my professor Dr.Parr to test my implementation aginst Scikit-learn's.
